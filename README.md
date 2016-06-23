@@ -17,3 +17,6 @@ addinf more stuff
 
 more stuff being added
 
+### Copywright
+2014 Git Training
+
