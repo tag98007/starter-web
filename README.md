@@ -14,6 +14,7 @@ This is example is to show different part of the git repo and various commands u
 
 addinf more stuff
 
+## How to Contribute
 
 more stuff being added
 
