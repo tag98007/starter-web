@@ -20,5 +20,5 @@ add some nore txt for rebasing. more changes from myfeature branch too.
 more stuff being added
 
 ### Copywright
-2014 Git Training
+2014 Git Training. All rights reserved.
 
