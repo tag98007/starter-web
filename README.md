@@ -16,9 +16,9 @@ addinf more stuff
 
 ## How to Contribute
 
-add some nore txt for rebasing. more changes from myfeature branch too.
+add some nore txt for rebasing.  emergency fix after stash
 more stuff being added
 
 ### Copywright
-2014 Git Training. All rights reserved.
+2014 Git Training. All rights reserved
 
